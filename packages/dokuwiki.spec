@@ -8,7 +8,7 @@ Summary:	Standards compliant simple to use wiki
 Group:		Applications/Internet
 License:	GPLv2
 URL:		http://www.dokuwiki.org/dokuwiki
-Source0:	http://download.dokuwiki.org/src/%{name}/%{name}-%{releasenum}.tgz
+Source0:	https://download.dokuwiki.org/src/%{name}/%{name}-%{releasenum}.tgz
 #Fedora specific patches to use fedora packaged libraries
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
 BuildArch:	noarch
