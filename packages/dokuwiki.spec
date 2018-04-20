@@ -3,7 +3,7 @@
 
 Name:		dokuwiki
 Version:	0
-Release:	0.25.%{releasetag}%{?dist}
+Release:	0.25.%{releasetag}
 Summary:	Standards compliant simple to use wiki
 Group:		Applications/Internet
 License:	GPLv2
